@@ -5,6 +5,7 @@ favicon: favicon.png
 banner: banner2.jpg
 banner-maintitle: One Stop Piping Solution
 banner-title: Are you looking for quality pipes?
+footer-banner: footer.jpg
 banner-url: #
 markdown: kramdown
 exclude: ['README.md']
