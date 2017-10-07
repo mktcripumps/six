@@ -291,7 +291,7 @@ box-shadow: 0px -1px 32px 22px #DDDDDD;
     border-radius: 5px;
     text-align: left;background: #00134c url(../image/whatsapp_header.png) no-repeat 15px;    padding-left: 73px;}
 .footerlink a {
-    color: #fff;
+    color: #00134c;
     background: none;
     padding: 5px 10px;
     border-left: 1px solid #fff;
