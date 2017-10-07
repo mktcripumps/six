@@ -77,7 +77,7 @@ h4{ font-size:20px;font-family: 'Roboto', sans-serif;    font-weight: bold;}
 /*FONTS*/
 /* nav section start*/
 .headersec{width:100%;display:inline-block}
-.header-top{background-color:#4c778c;padding:12px}
+.header-top{background-color:#3e89c7;padding:12px}
 .mailing li{display:inline-block}
 .social a.bloglink{width:inline-block;    width: auto;
     height: auto;}
@@ -267,7 +267,7 @@ box-shadow: 0px -1px 32px 22px #DDDDDD;
 /*contactform section start*/
 
 /*--footer area start--*/
-.footerarea{width:100%;display:inline-block;background: url(../image/footer_bottom.jpg) no-repeat center top;
+.footerarea{width:100%;display:inline-block;
 	background-size:cover;height:500px;padding:55px 0}
 .socila a {background: #3A5899;
     width: 40px;
