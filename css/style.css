@@ -92,13 +92,14 @@ h4{ font-size:20px;font-family: 'Roboto', sans-serif;    font-weight: bold;}
 .social a:nth-child(4){background-color:#c90935}
 .social a:nth-child(5){background-color:#0096da}
 .header-bottom{background:#fff;display:inline-block;width:100%;padding: 10px 0px;margin-bottom: -9px;}
-.header-bottom .menu{float:right;display:inline-block;}
+.header-bottom .menu{float:right;display:inline-block;margin-top:35px;}
 .header-bottom .menu li{float:left;padding:10px;}
 .header-bottom .menu li.active{background-color: #00134c;
     padding: 10px 10px;
     border-radius: 4px;}
 .header-bottom .menu li.active a{color:#fff!important}
 .header-bottom .menu li a{font-size:21px;color:#00134c!important;}
+.inner-bottom img{margin:0px;}
 /* nav section ends*/
 /*banner section start*/
 .banner-secion{width:100%;display:inline-block;position:relative;
